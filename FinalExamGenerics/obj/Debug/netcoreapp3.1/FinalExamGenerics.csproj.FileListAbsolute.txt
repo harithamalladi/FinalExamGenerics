@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\bin\Debug\netcoreapp3.1\FinalExamGenerics.exe
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\bin\Debug\netcoreapp3.1\FinalExamGenerics.deps.json
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\bin\Debug\netcoreapp3.1\FinalExamGenerics.runtimeconfig.json
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\bin\Debug\netcoreapp3.1\FinalExamGenerics.runtimeconfig.dev.json
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\bin\Debug\netcoreapp3.1\FinalExamGenerics.dll
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\bin\Debug\netcoreapp3.1\FinalExamGenerics.pdb
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\obj\Debug\netcoreapp3.1\FinalExamGenerics.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\obj\Debug\netcoreapp3.1\FinalExamGenerics.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\obj\Debug\netcoreapp3.1\FinalExamGenerics.AssemblyInfo.cs
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\obj\Debug\netcoreapp3.1\FinalExamGenerics.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\obj\Debug\netcoreapp3.1\FinalExamGenerics.dll
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\obj\Debug\netcoreapp3.1\FinalExamGenerics.pdb
+C:\Users\USER\source\repos\FinalExamGenerics\FinalExamGenerics\obj\Debug\netcoreapp3.1\FinalExamGenerics.genruntimeconfig.cache
